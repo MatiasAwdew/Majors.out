@@ -1,12 +1,3 @@
-/******************************************************************************
-# Author: Yonas Asfaw, Matias Awdew
-# Assignment: Week 7 Discussion 7.cpp.
-# Date: 12/04/22
-# Description: This program will calculate and output the percentage of men and women and what major they are pursuing for the user. 
-# Sources:  W3schools, Zybooks
-# Contribution: Me and Matias both worked together to code this program.
-#******************************************************************************/
-
 #include <iostream>
 #include <fstream>
 #include <string>
